@@ -6,7 +6,7 @@ compressed yield — funded by an LP/GP joint venture with a two-tier promote.
 
 ## Files in this repo
 - [Case study (PDF)](Case_Study_Project_Meridian.pdf)
-- [Model (Excel)](https://github.com/chougulepratik28/project-meridian-valueadd-jv/blob/main/Project_Meridian_ValueAdd_JV.xlsx)
+- [Model (Excel)](Project_Meridian_ValueAdd_JV.xlsx)
 
 ## Highlights
 - Phased renovation & NOI build; senior debt with a **Year-3 refinance capital event**
