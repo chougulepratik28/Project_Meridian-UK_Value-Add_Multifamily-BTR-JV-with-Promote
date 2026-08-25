@@ -5,7 +5,7 @@ renovate to a rent premium, refinance mid-hold to return capital, and exit on a
 compressed yield — funded by an LP/GP joint venture with a two-tier promote.
 
 ## Files in this repo
-- [Case study (PDF)](https://github.com/chougulepratik28/project-meridian-valueadd-jv/blob/main/Case_Study_Project_Meridian.pdf)
+- [Case study (PDF)](Case_Study_Project_Meridian.pdf)
 - [Model (Excel)](https://github.com/chougulepratik28/project-meridian-valueadd-jv/blob/main/Project_Meridian_ValueAdd_JV.xlsx)
 
 ## Highlights
